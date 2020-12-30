@@ -57,7 +57,8 @@
 - OAuth, JWT tokens, cookies, Auth0, PassportJS for Authentication
 - Python for a diverse number of development purposes including the backend and data gathering
 <br />
-<em>Consistent proven ability to hit the ground running and learn/work with a new team and technologies</em>
+
+<em>Always up for learning/working with new teams and technologies</em>
 <br />
 <em>Certified Credentals for Software Engineering by Triplebyte: </em><a href="https://triplebyte.com/tb/andrew-speer-cpwmfrq/certificate/track/frontend"> Credential </a>
 
