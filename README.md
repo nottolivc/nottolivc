@@ -48,7 +48,7 @@
 <br/>
 
 ### Experienced and Currently working in:
-- Currently learning SOLID design principals 2021
+- Currently learning SOLID design principals 2022
 - ReactJS Ecosystem
 - Redux, Apollo Client/Server, and/or Context API for state management
 - Hooks and Class components in React, OOP class components and functional paradigms
