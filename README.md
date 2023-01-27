@@ -47,16 +47,16 @@
 
 <br/>
 
-### Experienced and Currently working in:
+### Experienced and currently working in:
 
-- ReactJS Ecosystem
-- Redux, Apollo Client/Server, and/or Context API for state management
-- Hooks and Class components in React, OOP class components and functional paradigms
+- All things JavaScipt, ReactJS Ecosystem, generalist experience in Python/Go, (OOP and functional)
+- State management (Redux, Apollo Client/Server, and/or Context API, etc.)
+- Hooks and Class components in React
 - SPA's on the front end and Node.js on the backend
-- Express.js for REST APIs and Apollo for GraphQL servers, Microservices
-- PostgreSQL/SQL, and MongoDB, Mongoose, Firebase for NoSQL 
-- OAuth, JWT tokens, cookies, Auth0, PassportJS for Authentication
-- Python for a diverse number of development purposes including the backend and data gathering
+- REST APIs and GraphQL for the backend/servers, Microservices, Kubernetes
+- PostgreSQL/SQL, and MongoDB, Mongoose, Firebase, NoSQL 
+- Authentication (OAuth, JWT tokens, cookies, Auth0, PassportJS, etc.)
+- AI/Data Science/Analysis in Python for a diverse number of development purposes
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
