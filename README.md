@@ -1,5 +1,5 @@
 # <div align="center">About Andrew</div>  
-### <div align="center">Full-Stack Developer, Computer Science student by night 💻 </div> 
+### <div align="center">Full-Stack Developer 💻 </div> 
 <div align="center">
 <!-- Need to get in touch? Find Andrew on <a href="https://linkedin.com/in/andrew-speer">LinkedIn <br /> -->
 <!-- <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> -->
