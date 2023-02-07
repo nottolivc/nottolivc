@@ -48,8 +48,8 @@
 <br/>
 
 ### Experienced and currently working in:
-
-- All things JavaScipt, ReactJS Ecosystem, generalist experience in Python/Go, (OOP and functional)
+- OpenAI ecosystem exlporation and tooling
+- All things JavaScipt, ReactJS Ecosystem, generalist experience in Python/Go (OOP and functional)
 - State management (Redux, Apollo Client/Server, and/or Context API, etc.)
 - Hooks and Class components in React
 - SPA's on the front end and Node.js on the backend
