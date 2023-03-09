@@ -48,15 +48,15 @@
 <br/>
 
 ### Experienced and currently working in:
-- OpenAI ecosystem exploration and tooling
-- All things JavaScipt, ReactJS Ecosystem, generalist experience in Python/Go (OOP and functional)
+- TypeScript on the front and backend, Python, Golang, Systems Design
+- ReactJS and all things JavaScipt and the JavaScript Ecosystem (OOP and Functional)
 - State management (Redux, Apollo Client/Server, and/or Context API, etc.)
-- Hooks and Class components in React
-- SPA's on the front end and Node.js on the backend
-- REST APIs and GraphQL for the backend/servers, Microservices, Kubernetes
-- PostgreSQL/SQL, and MongoDB, Mongoose, Firebase, NoSQL 
-- Authentication (OAuth, JWT tokens, cookies, Auth0, PassportJS, etc.)
-- AI/Data Science/Analysis in Python for a diverse number of development purposes
+- SPA's on the client/frontend and Express/Node.js on the backend
+- REST APIs and GraphQL for the backend/servers, Vms, Kubernetes
+- Cloud Computing, AWS, CI/CD, Azure, OpenAI ecosystem exploration and tooling
+- PostgreSQL/SQL, MongoDB/NoSQL, ORMs for data seeding/migrations
+- Authentication (OAuth, JWT tokens, cookies, Auth0, etc.)
+- Data Science/Analysis in Python for a diverse number of development purposes
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
