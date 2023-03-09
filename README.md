@@ -67,7 +67,7 @@
 
 
 ### GitHub Profile
-<div align="center">
+<!-- <div align="center">
   
 <a href="https://github.com/nottolivc" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,7 +81,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottolivc&hide_border=true&layout=compact&langs_count=8&theme=react&hide_border=true" align="center" style="width: 100%" />  
 </div> 
-<br/>  
+<br/>   -->
 
 <!--
 **nottolivc/nottolivc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
