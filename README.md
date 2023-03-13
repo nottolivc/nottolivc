@@ -47,22 +47,25 @@
 
 <br/>
 
-### Experienced and currently working in:
-- TypeScript on the front and backend, Python, Golang, Systems Design
-- ReactJS and all things JavaScipt and the JavaScript Ecosystem (OOP and Functional)
-- State management (Redux, Apollo Client/Server, and/or Context API, etc.)
-- SPA's on the client/frontend and Express/Node.js on the backend
+### Experienced & currently working with:
+
+- Full-Stack Development in TypeScript, Python, JS/Golang, as well as Distributed and Cloud Computing
+- React library and all things JavaScript (OOP and RFC/Functional) and it's rapidly growing ecosystem, Next.js
+- Global state application management (Redux, Apollo Client/Server, Context API, etc.)
+- SPAs on the client and MVCs as well as backend frameworks such as Express/Node.js
 - REST APIs and GraphQL for the backend/servers, Vms, Kubernetes
-- Cloud Computing, AWS, CI/CD, Azure, OpenAI ecosystem exploration and tooling
-- PostgreSQL/SQL, MongoDB/NoSQL, ORMs for data seeding/migrations
+- AWS Services, OpenAI ecosystem exploration and tooling
+- PostgreSQL/SQL, MongoDB/NoSQL, ORMs for data migrations
 - Authentication (OAuth, JWT tokens, cookies, Auth0, etc.)
-- Data Science/Analysis in Python for a diverse number of development purposes
+- Data Science/Pipelines in Python for a diverse number of purposes
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
 <br />
-<em>Certified Credentals for Software Engineering by Triplebyte: </em><a href="https://triplebyte.com/tb/andrew-speer-cpwmfrq/certificate/track/frontend"> Credential </a>
-
+<em>Certified Credentals for Software Engineering by Triplebyte: </em>
+<!-- <a href="https://triplebyte.com/tb/andrew-speer-cpwmfrq/certificate/track/frontend"></a> -->
+<br />
+<a href="https://triplebyte.com/tb/andrew-nottoli-6tkx0yz/certificate"> Credential </a>
 <br />
 
 
