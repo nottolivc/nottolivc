@@ -52,7 +52,7 @@
 - Full-Stack Development in TypeScript, Python, JS/Golang, Kubernetes, Distributed & Cloud Computing
 - React library and all things JavaScript (OOP and RFC/Functional) and it's rapidly growing ecosystem
 - Global state application management (Redux, Apollo Client/Server, Context API, etc.)
-- SPAs on the client and MVCs, Next.js, and back-end frameworks like Express/Node.js
+- SPAs, MVCs, Next.js, and back-end frameworks like Django, Flask, RoR, Express/Node.js
 - RESTful APIs and GraphQL for the backend/server(s)
 - AWS Services, OpenAI ecosystem exploration and tooling
 - PostgreSQL/SQL, MongoDB/NoSQL, ORMs for data migrations
