@@ -1,5 +1,5 @@
 # <div align="center">About Andrew</div>  
-### <div align="center">Software Engineer & (FullStack) Developer 💻 </div> 
+### <div align="center">Full Stack Software Engineer 💻 </div> 
 <div align="center">
 <!-- Need to get in touch? Find Andrew on <a href="https://linkedin.com/in/andrew-speer">LinkedIn <br /> -->
 <!-- <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> -->
@@ -49,14 +49,14 @@
 
 ### Experienced & currently working with:
 
-- Full-Stack Development in TypeScript, Python, JS/Golang, Kubernetes, Distributed & Cloud Computing
-- React library and all things JavaScript (OOP and RFC/Functional) and it's rapidly growing ecosystem
-- Global state application management (Redux, Apollo Client/Server, Context API, etc.)
-- SPAs, MVCs, Next.js, and back-end frameworks like Django, Flask, RoR, Express/Node.js
-- RESTful APIs and GraphQL for the backend/server(s)
-- AWS Services, OpenAI ecosystem exploration and tooling
-- PostgreSQL/SQL, MongoDB/NoSQL, ORMs for data migrations
-- Data Science/Pipelines in Python for a diverse number of purposes
+- TypeScript, JavaScript, Python, Golang
+- React, SPAs, Express.js, Node.js
+- State management (Redux, Apollo)
+- Next.js, MVC Contollers like Django
+- RESTful API, gRPC, GraphQL for the backend
+- AWS, GCP, Cloud Architecture & Computing
+- PostgreSQL, SQL, MongoDB, NoSQL, ORMs 
+- Data Science, pipelines in Python
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
