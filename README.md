@@ -53,7 +53,7 @@
 - React, SPAs, Express.js, Node.js
 - State management (Redux, Apollo)
 - Next.js, MVC Contollers like Django
-- RESTful API, gRPC, GraphQL for the backend
+- RESTful & GraphQL for the backend
 - AWS, GCP, Cloud Architecture & Computing
 - PostgreSQL, SQL, MongoDB, NoSQL, ORMs 
 - Data Science, ETL pipelines, ML/deep learning in Python
