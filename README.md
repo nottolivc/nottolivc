@@ -47,10 +47,10 @@
 
 <br/>
 
-### Experienced & currently working with:
+### Experienced in (and currently working with) the following:
 
 - TypeScript, JavaScript, Python, Go
-- React, SPAs, Express.js, Node.js
+- React library, SPAs, Express.js, Node.js
 - State management (Redux, Apollo)
 - Next.js, MVC Contollers like Django
 - RESTful & GraphQL for the backend
