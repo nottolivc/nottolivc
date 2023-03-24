@@ -49,14 +49,14 @@
 
 ### Experienced & currently working with:
 
-- TypeScript, JavaScript, Python, Golang
+- TypeScript, JavaScript, Python, Go
 - React, SPAs, Express.js, Node.js
 - State management (Redux, Apollo)
 - Next.js, MVC Contollers like Django
 - RESTful API, gRPC, GraphQL for the backend
 - AWS, GCP, Cloud Architecture & Computing
 - PostgreSQL, SQL, MongoDB, NoSQL, ORMs 
-- Data Science, pipelines in Python
+- Data Science, ETL pipelines, ML/deep learning in Python
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
