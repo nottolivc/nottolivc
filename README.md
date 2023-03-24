@@ -68,7 +68,7 @@
 <br />
 
 
-### GitHub Profile
+<!-- ### GitHub Profile -->
 <!-- <div align="center">
   
 <a href="https://github.com/nottolivc" target="_blank">
