@@ -52,7 +52,7 @@
 - TypeScript, JavaScript, Python, Golang
 - React library, Express.js, Node.js
 - State management (Redux, Apollo)
-- Next.js, MVC Contollers like Django
+- Next.js, MVC, Java
 - RESTful & GraphQL APIs for the backend
 - AWS, GCP, Cloud Architecture & Computing
 - PostgreSQL, SQL, MongoDB, NoSQL, ORMs 
