@@ -29,7 +29,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="
+                                                                                                                    greSQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 </div>
 
@@ -53,8 +54,7 @@
 - ReactJS, MVCs, Express.js, Node.js
 - RESTful & GraphQL APIs for the backend
 - AWS, GCP, Cloud Architecture & Computing
-- PostgreSQL, SQL, MongoDB, NoSQL, ORMs 
-- Data Science, ETL pipelines, ML/deep learning in Python
+- PostgreSQL, SQL, NoSQL, ORMs, ML/deep learning
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
