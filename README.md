@@ -50,11 +50,11 @@
 
 ### Experienced in (and currently working with) the following:
 
-- TypeScript, JavaScript, Python, Java, Go, ReactJS
-- Node.js, RESTful & GraphQL, MVCs, Express.js, Next.js
+- TypeScript, JavaScript, Python, Go
+- React.js, Node.js, RESTful & GraphQL, MVCs, Express.js, Next.js
 - AWS, Cloud Architecture & Computing
 - PostgreSQL, SQL, NoSQL, ORMs
-- Machine Learning & Neural Networks, AI
+- Machine Learning & Neural Networks
 <br />
 
 <em>Always up for learning/working with new teams and technologies</em>
