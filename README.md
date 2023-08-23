@@ -126,19 +126,13 @@ const SOLIDComponent = () => {
 
 export default SOLIDComponent;
 ```
-
-## Example of Emotional Analysis API in Node.js which can extend out to an LLM
-
+## Example Emotional Analysis API extendable to an LLM
 ```
 const express = require('express');
-const cors = require('cors');
 const bodyParser = require('body-parser');
 
 const app = express();
-const PORT = 3000;
-
 app.use(bodyParser.json());
-app.use(cors());
 
 // Mock emotional response matrix.
 const EMOTIONAL_RESPONSES = {
