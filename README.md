@@ -66,6 +66,7 @@
 <br />
 
 ## SOLID Design in React
+```
 const Data = {
   value: "SOLID in React",
   color: "blue",
@@ -124,7 +125,7 @@ const SOLIDComponent = () => {
 };
 
 export default SOLIDComponent;
-
+```
 
 <!-- ### GitHub Profile -->
 <!-- <div align="center">
