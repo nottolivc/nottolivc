@@ -65,67 +65,7 @@
 <a href="https://triplebyte.com/tb/andrew-nottoli-6tkx0yz/certificate"> Credential </a>
 <br />
 
-## SOLID Design in React
-```
-const Data = {
-  value: "SOLID in React",
-  color: "blue",
-  format: (value) => value.toUpperCase(),
-  validate: (value) => value.length > 0
-};
 
-// S - Single Responsibility Principle
-// Component with a single responsibility: Display the value.
-const DisplayData = ({ value }) => <div>{value}</div>;
-
-// O - Open/Closed Principle
-// Component that can display data in a color without changing its internal structure.
-const ColorfulData = ({ value, color }) => <div style={{ color }}>{value}</div>;
-
-// L - Liskov Substitution Principle
-// Base and derived functions to demonstrate substitutability.
-function baseFormat(value) {
-  return value;
-}
-
-function extendedFormat(value) {
-  return value.toLowerCase();
-}
-
-// I - Interface Segregation Principle
-// Seperate out functionalities into different methods.
-const formatData = (value, formatter) => formatter(value);
-const validateData = (value, validator) => validator(value);
-
-// D - Dependency Inversion Principle
-// Components depending on abstractions (props) rather than concrete implementations.
-const DataWrapper = ({ value, formatter, validator }) => {
-  const formattedValue = formatData(value, formatter);
-  const isValid = validateData(value, validator);
-
-  return (
-    <div>
-      {isValid ? formattedValue : "Invalid Data"}
-    </div>
-  );
-};
-
-const SOLIDComponent = () => {
-  return (
-    <div>
-      <DisplayData value={Data.value} />
-      <ColorfulData value={Data.value} color={Data.color} />
-      <DataWrapper 
-        value={Data.value} 
-        formatter={extendedFormat} 
-        validator={Data.validate} 
-      />
-    </div>
-  );
-};
-
-export default SOLIDComponent;
-```
 
 <!-- ### GitHub Profile -->
 <!-- <div align="center">
